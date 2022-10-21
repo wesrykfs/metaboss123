@@ -1,0 +1,69 @@
+{
+  "name": "Lunar #999",
+  "symbol": "KRKN",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/B9OClf0c7QEM04WbEQt4a4uvygEINSfyvZr_sDuUeqg",
+  "attributes": [
+{
+      "trait_type": "Animal",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "80 Style Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "In Mouth",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Open Mouth"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dolce Vita Pink"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blazer"
+    },
+    {
+      "trait_type": "Suit Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Zodiac Sign",
+      "value": "Aquarius"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
